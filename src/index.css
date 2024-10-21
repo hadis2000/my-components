@@ -1,0 +1,35 @@
+@font-face {
+  font-family: "CookieCrisp";
+  src: url("/fonts/CookieCrisp.ttf") format("truetype");
+}
+
+@font-face {
+  font-family: "tahoma";
+  src: url("/fonts/tahoma.ttf") format("truetype");
+}
+
+@font-face {
+  font-family: "arial";
+  src: url("/fonts/arial.ttf") format("truetype");
+}
+
+@font-face {
+  font-family: "nazanin";
+  src: url("/fonts/BNazanin.ttf") format("truetype");
+}
+
+@font-face {
+  font-family: "traffic";
+  src: url("/fonts/Traffic.ttf") format("truetype");
+}
+
+@font-face {
+  font-family: "Fbold";
+  src: url("/fonts/IRANSansXFaNum-Bold.woff") format("woff");
+}
+
+body {
+  margin: 0;
+  padding: 0;
+  font-family: "CookieCrisp", sans-serif;
+}
